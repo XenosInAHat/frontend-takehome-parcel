@@ -1,0 +1,46 @@
+body {
+  background: #eee;
+  margin: 0;
+  padding: 50px;
+}
+
+.search-bar {
+  width: 70%;
+  margin: auto;
+  padding-bottom: 2px;
+}
+
+.results {
+  width: 70%;
+  margin: auto;
+}
+
+.titleText {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.save-button {
+  text-align: right;
+  height: 45px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.entry {
+  display: flex;
+}
+
+.entry-info {
+  width: 90%;
+  display: inline-block;
+}
+
+.entry-name {
+  display: block;
+  font-size: larger;
+}
+
+.nav {
+  margin-bottom: 15px;
+}
