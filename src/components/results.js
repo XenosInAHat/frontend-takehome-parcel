@@ -1,5 +1,4 @@
 import React from 'react';
-import pick from 'lodash/pick';
 import Entry from './entry';
 
 export default class Results extends React.Component {

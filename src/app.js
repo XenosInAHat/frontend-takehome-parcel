@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
 import findIndex from 'lodash/findIndex';
-import find from 'lodash/find';
 import pick from 'lodash/pick';
 import SearchBar from './components/searchBar';
 import Results from './components/results';
